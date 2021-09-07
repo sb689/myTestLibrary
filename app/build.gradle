@@ -1,7 +1,18 @@
 plugins {
     id 'com.android.application'
     id 'kotlin-android'
+    id 'maven-publish'
 }
+
+//afterEvaluate {
+//    publishing {
+//        publications {
+//            release(MavenPublication) {
+//                from components.release
+//            }
+//        }
+//    }
+//}
 
 android {
     compileSdk 30
@@ -29,6 +40,7 @@ android {
     kotlinOptions {
         jvmTarget = '11'
     }
+
 }
 
 dependencies {
