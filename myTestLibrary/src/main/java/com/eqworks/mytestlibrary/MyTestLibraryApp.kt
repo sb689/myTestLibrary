@@ -1,6 +1,7 @@
-package com.eqworks.mytestlibraryapp
+package com.eqworks.mytestlibrary
 
 import android.app.Application
+import com.eqworks.mytestlibraryapp.BuildConfig
 import timber.log.Timber
 
 class MyTestLibraryApp : Application(){

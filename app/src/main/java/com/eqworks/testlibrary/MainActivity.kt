@@ -3,7 +3,7 @@ package com.eqworks.testlibrary
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
-import com.eqworks.mytestlibraryapp.SumNumbers
+import com.eqworks.mytestlibrary.SumNumbers
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {

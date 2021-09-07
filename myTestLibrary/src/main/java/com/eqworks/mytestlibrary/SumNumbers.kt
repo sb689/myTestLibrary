@@ -1,4 +1,4 @@
-package com.eqworks.mytestlibraryapp
+package com.eqworks.mytestlibrary
 
 import timber.log.Timber
 
