@@ -1,7 +1,8 @@
 jdk:
   - openjdk11
-install:
-  - ./gradlew build :lib:publishToMavenLocal
+#install:
+#  - ./gradlew build :lib:publishToMavenLocal
+#  -
 #install:
 #  - ./gradlew :moka:build :moka:publishToMavenLocal -x :moka:test
 
