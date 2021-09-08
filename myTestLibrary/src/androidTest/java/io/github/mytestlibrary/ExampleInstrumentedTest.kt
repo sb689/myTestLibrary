@@ -1,4 +1,4 @@
-package com.eqworks.mytestlibrary
+package io.github.mytestlibrary
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

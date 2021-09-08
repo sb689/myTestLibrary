@@ -4,15 +4,7 @@ plugins {
     id 'maven-publish'
 }
 
-//afterEvaluate {
-//    publishing {
-//        publications {
-//            release(MavenPublication) {
-//                from components.release
-//            }
-//        }
-//    }
-//}
+
 
 android {
     compileSdk 30

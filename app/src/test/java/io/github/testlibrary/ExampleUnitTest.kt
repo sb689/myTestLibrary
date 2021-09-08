@@ -1,4 +1,4 @@
-package com.eqworks.testlibrary
+package io.github.testlibrary
 
 import org.junit.Test
 
